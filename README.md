@@ -1,6 +1,6 @@
 # Antonio Serrano - Portfolio Website
 
-This is my personal portfolio website to showcase my projects, skills, and contact info.
+This is my personal portfolio website to showcase my projects, and skills
 
 ## 🔧 Technologies Used
 - HTML5
